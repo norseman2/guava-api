@@ -1,2 +1,9 @@
 # guava-api
-java spring portofolio project
+
+# functional scope
+- insurance company
+- manage accounts and policies
+- API
+
+## technical scope
+- java spring
